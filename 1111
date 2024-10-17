@@ -1,0 +1,40 @@
+<html lang="zh-CN">
+<head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <title>分享一些网站</title>
+    <style>
+        body {
+            margin: 25px;
+        }
+        .container {
+            background-color: #f1f1f1;
+            text-align: center;
+            padding: 50px;
+            font-size: 17px;
+            max-width: 700px;
+            margin: 30px auto;
+        }
+    </style>
+</head>
+<body>
+    <div class="container">
+        <p>一个网站，看漫用</p >
+        链接跳转
+
+        <p>另一个有用的网站，可以用来写网站</p >
+        
+
+        <p>一些电视的网站</p >
+        
+
+        <p>
+            
+        </p >
+
+        <p>
+            
+        </p >
+
+        <p>
+            < img src="https://p1.ssl.qhimgs1.com/sdr/400__/t01cb1fa9929d94f941.jpg" alt="goutou" width="400">
